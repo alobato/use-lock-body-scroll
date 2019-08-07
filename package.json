@@ -1,0 +1,32 @@
+{
+  "name": "@alobato/use-lock-body-scroll",
+  "version": "1.0.0",
+  "description": "React hook to lock body scroll",
+  "main": "index.js",
+  "repository": "github:alobato/use-lock-body-scroll",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "lock",
+    "scroll"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/use-lock-body-scroll/issues"
+  },
+  "homepage": "https://github.com/alobato/use-lock-body-scroll#readme"
+}
